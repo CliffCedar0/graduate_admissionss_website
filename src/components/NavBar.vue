@@ -15,8 +15,9 @@
                 </el-sub-menu>
                 <el-menu-item index="/TimeLine">考研时间线</el-menu-item>
                 <el-menu-item index="/Post">发布文章</el-menu-item>
-                <el-menu-item index="/register" style="float: right;">注册</el-menu-item>
+
                 <el-menu-item index="/login" style="float: right;">登录</el-menu-item>
+                <el-menu-item index="/register" style="float: right;">注册</el-menu-item>
             </el-menu>
         </el-col>
     </el-row>
